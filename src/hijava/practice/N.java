@@ -7,7 +7,6 @@ public class N {
 	public void swap() {
 		int t = x;
 		x = y;
-		y = t;
 		
 		
 	}

@@ -17,7 +17,7 @@ public class Mom {
 	}
 	
 	public void eat() {
-		System.out.println("EAT!!");
+		System.out.println("drinkbeer");
 	}
 	
 	public void say() {
